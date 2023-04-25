@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "Algorithm\TwoSum.csproj", "{A6DC365F-F45A-43E6-9C19-9D95EA81B55B}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTrees", "BinaryTrees\BinaryTrees.csproj", "{8515248F-B036-42BC-B0FB-16C3F00C19BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestor", "LowestCommonAncestor\LowestCommonAncestor.csproj", "{CD982897-F42D-4510-881F-1D39219C45E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonAncestor", "LowestCommonAncestor\LowestCommonAncestor.csproj", "{CD982897-F42D-4510-881F-1D39219C45E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSum", "RunningSum\RunningSum.csproj", "{4A8E834C-8590-4A98-9D5D-ED80830E97C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunningSum", "RunningSum\RunningSum.csproj", "{4A8E834C-8590-4A98-9D5D-ED80830E97C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPivotIndex", "FindPivotIndex\FindPivotIndex.csproj", "{2BC42075-DA4B-4FF0-AD10-8028D670A8D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindPivotIndex", "FindPivotIndex\FindPivotIndex.csproj", "{2BC42075-DA4B-4FF0-AD10-8028D670A8D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{61706A6D-61B1-43A1-BB28-A97D4042AB48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\RansomNote.csproj", "{61706A6D-61B1-43A1-BB28-A97D4042AB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumProblem", "TwoSumProblem\TwoSumProblem.csproj", "{7C85C854-0C3A-418C-A12F-6FE1E5506439}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A6DC365F-F45A-43E6-9C19-9D95EA81B55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A6DC365F-F45A-43E6-9C19-9D95EA81B55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A6DC365F-F45A-43E6-9C19-9D95EA81B55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A6DC365F-F45A-43E6-9C19-9D95EA81B55B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8515248F-B036-42BC-B0FB-16C3F00C19BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8515248F-B036-42BC-B0FB-16C3F00C19BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8515248F-B036-42BC-B0FB-16C3F00C19BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{61706A6D-61B1-43A1-BB28-A97D4042AB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61706A6D-61B1-43A1-BB28-A97D4042AB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61706A6D-61B1-43A1-BB28-A97D4042AB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C85C854-0C3A-418C-A12F-6FE1E5506439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C85C854-0C3A-418C-A12F-6FE1E5506439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C85C854-0C3A-418C-A12F-6FE1E5506439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C85C854-0C3A-418C-A12F-6FE1E5506439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

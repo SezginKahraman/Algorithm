@@ -60,6 +60,7 @@ namespace RansomNote
                 }
             }
 
+            //it can be easily optimized by doing just 1 hash table.
             return true;
         }
     }
