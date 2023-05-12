@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32126.315
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTrees", "BinaryTrees\BinaryTrees.csproj", "{8515248F-B036-42BC-B0FB-16C3F00C19BD}"
 EndProject
@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindPivotIndex", "FindPivot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\RansomNote.csproj", "{61706A6D-61B1-43A1-BB28-A97D4042AB48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumProblem", "TwoSumProblem\TwoSumProblem.csproj", "{7C85C854-0C3A-418C-A12F-6FE1E5506439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSumProblem", "TwoSumProblem\TwoSumProblem.csproj", "{7C85C854-0C3A-418C-A12F-6FE1E5506439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{04242A51-B889-468B-A400-071DF9D692F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7C85C854-0C3A-418C-A12F-6FE1E5506439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C85C854-0C3A-418C-A12F-6FE1E5506439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C85C854-0C3A-418C-A12F-6FE1E5506439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04242A51-B889-468B-A400-071DF9D692F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04242A51-B889-468B-A400-071DF9D692F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04242A51-B889-468B-A400-071DF9D692F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04242A51-B889-468B-A400-071DF9D692F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
