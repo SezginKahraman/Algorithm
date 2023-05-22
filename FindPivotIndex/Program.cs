@@ -33,6 +33,8 @@ namespace FindPivotIndex
             for (int i = 0; i < nums.Length; i++)
             {
                 int num = nums[i];
+
+                // The hash table could be removed in this solution.
                 if (i > 0)
                 {
                     if (hashTable.ContainsKey(i - 1))
